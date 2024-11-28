@@ -1,5 +1,5 @@
 # FROM ghcr.io/linuxserver/baseimage-kasmvnc:debianbullseye
-FROM ghcr.io/linuxserver/baseimage-kasmvnc:arch-version-2024-11-22
+FROM ghcr.io/linuxserver/baseimage-kasmvnc:debianbullseye-8446af38-ls104
 # set version label
 ARG BUILD_DATE
 ARG VERSION
